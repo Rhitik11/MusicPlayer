@@ -31,6 +31,14 @@ This project is a basic music player application that allows users to play, paus
 3. Click on a song in the playlist to select it.
 4. Use the control buttons to play, pause, unpause, or stop the selected song.
 
+### NOTE
+
+1. Create a folder called "SONGS" within your project folder.
+2. Add some songs to the "SONGS" folder.
+3. Save the "SONGS" folder in your project directory.
+4. Provide the file path of the "SONGS" folder to the program code.
+Please note that the file path will depend on the location where you saved your project folder.   
+
 ### Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements for this project, please feel free to submit a pull request or open an issue.

@@ -41,7 +41,9 @@ This project is a basic music player application that allows users to play, paus
 2. Add some songs to the "SONGS" folder.
 3. Save the "SONGS" folder in your project directory.
 4. Provide the file path of the "SONGS" folder to the program code.
-Please note that the file path will depend on the location where you saved your project folder.   
+Please note that the file path will depend on the location where you saved your project folder.
+
+ ![Screenshot](https://drive.google.com/file/d/12PdBblICQKQuoRJ0T3qeWN5l_3SAOnA6/view?usp=sharing)
 
 ### Contributing
 

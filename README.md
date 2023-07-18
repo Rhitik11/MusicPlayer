@@ -43,6 +43,7 @@ This project is a basic music player application that allows users to play, paus
 3. Save the "SONGS" folder in your project directory.
 4. Provide the file path of the "SONGS" folder to the program code.
 Please note that the file path will depend on the location where you saved your project folder.
+![img02](https://github.com/Rhitik11/MusicPlayer/assets/101624751/42124f00-e1e8-44ab-a4ef-785ee1e885d5)
 
 
 

@@ -10,6 +10,7 @@ A simple music player application implemented in Python using the tkinter and py
 This project is a basic music player application that allows users to play, pause, unpause, and stop songs. Users can also create a playlist of songs to choose from. The application provides a graphical user interface (GUI) using the tkinter library for creating the window and UI components, while pygame is used to handle the audio playback functionality.
 
 ### Screenshot
+![img01](https://github.com/Rhitik11/MusicPlayer/assets/101624751/42d9405d-8edd-4820-905a-8ebfb23a2ce5)
 
 
 
